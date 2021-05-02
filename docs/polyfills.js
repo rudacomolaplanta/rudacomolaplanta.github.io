@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\dev\Personal\rudacomolaplanta.github.io\personal\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\dev\Personal\rudacomolaplanta.github.io\project\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
