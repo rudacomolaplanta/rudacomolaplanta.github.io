@@ -28,6 +28,10 @@
     margin: 0;
   }
 
+  section{
+      margin: 15px 0 15px 0;
+  }
+
   .spacer {
     flex: 1;
   }
