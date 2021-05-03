@@ -32,6 +32,15 @@
       margin: 15px 0 15px 0;
   }
 
+  .quote{
+      text-align: center;
+      margin: 20px 0 10px;
+  }
+
+  .auth{
+      font-weight: 600;
+  }
+
   .spacer {
     flex: 1;
   }

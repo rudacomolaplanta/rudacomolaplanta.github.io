@@ -1,9 +1,10 @@
 {
   "titulo1": "Andrés Ruda",
   "presentacion": "Full stack dev",
+  "p1": "Hay muy pocos seres humanos que reciben la verdad, completa y sorprendente, por la iluminación instantánea. La mayoría de ellos se adquieren fragmento a fragmento, a pequeña escala, por los acontecimientos sucesivos, celularmente, como un mosaico laborioso.",
+  "p1auth": "Anaïs Nin",
   "lklink": "https://www.linkedin.com/in/carloarm/?locale=en_US",
   "InLink": "https://www.instagram.com/rudacomolaplanta/",
   "ghlink": "https://github.com/rudacomolaplanta/",
-  "pais": "Chile",
-  "p1": "DIVI"
+  "pais": "Chile"
 }
