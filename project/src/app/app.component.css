@@ -58,6 +58,10 @@
     vertical-align: middle;
   }
 
+  .vspace{
+    height: 5vh;
+  }
+
   .typew h2{
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .15em solid orange; /* The typwriter cursor */
@@ -77,8 +81,17 @@
     margin: 0 16px;
   }
 
+  .logo{
+    margin: 0 16px;
+    height: 50px;
+  }
+
+  .logo:hover {
+    opacity: 0.8;
+  }
+
   .lk-logo {
-    height: 40px;
+    height: 20px;
     margin: 0 16px;
   }
 
